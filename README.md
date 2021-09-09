@@ -6,3 +6,5 @@ ring needs to be attached to a metal disk with a pin.
 
 Further down the line there is a sorting area, where sensors are used to check if there is both a plastic ring and metal disk. If both are not present
 they must get rejected by being pushed off of the belt.
+
+Built using OpenPLC
